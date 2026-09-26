@@ -1,0 +1,101 @@
+id,titre,concept,couleur_principale,statut
+001,Pythagore,Demonstration visuelle des carres,BLUE,termine
+002,Nombre_Dor,La spirale de Fibonacci dans la nature,GOLD,en_attente
+003,Derivee,La pente d une tangente qui bouge,RED,en_attente
+004,Pi,Derouler un cercle sur une ligne droite,PURPLE,en_attente
+005,Integrale,Somme des rectangles sous la courbe,GREEN,en_attente
+006,Loi_de_Gravite,Attraction de deux masses dans l espace,GREY,en_attente
+007,Nombre_Complexe,Le role de i dans le plan complexe,ORANGE,en_attente
+008,Fractale_Mandelbrot,Zoom infini dans une forme autoreproductive,TEAL,en_attente
+009,Matrice,Transformation lineaire et rotation de l espace,CYAN,en_attente
+010,Vecteur,Force avec une direction et une norme,YELLOW,en_attente
+011,Effet_Doppler,Compression des ondes sonores en mouvement,BLUE,en_attente
+012,Trou_Noir,Deformation extreme de l espace temps,BLACK,en_attente
+013,Loi_de_Snell,Refraction de la lumiere entre deux milieux,WHITE,en_attente
+014,Conique,Intersection d un plan et d un cone,MAROON,en_attente
+015,Theoreme_Thales,Proportionnalite des triangles imbriques,BROWN,en_attente
+016,Cercle_Trigo,Lien entre angle cosinus et sinus,PINK,en_attente
+017,Loi_de_Hooke,Etirement d un ressort selon la force,RED,en_attente
+018,Entropie,Evolution du desordre dans un systeme isole,GREY,en_attente
+019,Relativite_Restreinte,Dilatation du temps a grande vitesse,GOLD,en_attente
+020,Pendule_Simple,Mouvement oscillatoire et force de gravite,GREEN,en_attente
+021,Probabilite_Des,Frequence de sortie de chaque face,ORANGE,en_attente
+022,Theoreme_Bayes,Mise a jour des chances d un evenement,PURPLE,en_attente
+023,Graphe_Euler,Parcourir toutes les aretes sans repasser,TEAL,en_attente
+024,Arbre_Binaire,Structure de donnees triee par embranchement,CYAN,en_attente
+025,Suites_Geometriques,Croissance exponentielle de cellules,YELLOW,en_attente
+026,Loi_de_Coulomb,Attraction et repulsion des charges electriques,BLUE,en_attente
+027,Prisme_Newton,Separation de la lumiere blanche en couleurs,RAINBOW,en_attente
+028,Champ_Magnetique,Lignes de force autour d un aimant,NAVY,en_attente
+029,Machine_Atwood,Acceleration de deux masses reliees par une poulie,GREY,en_attente
+030,Loi_de_Kepler,Trajectoire elliptique des planetes autour du soleil,GOLD,en_attente
+031,Vitesse_Liberation,Vitesse minimale pour quitter une planete,SILVER,en_attente
+032,Loi_de_Ohm,Relation entre tension courant et resistance,RED,en_attente
+033,Synthese_Additive,Melange des lumieres rouge verte et bleue,RGB,en_attente
+034,Onde_Stationnaire,Vibration d une corde fixee aux extremites,PURPLE,en_attente
+035,Effet_Venturi,Acceleration d un fluide dans un etranglement,CYAN,en_attente
+036,Theoreme_Central_Limite,Convergence des moyennes vers la loi normale,GREEN,en_attente
+037,Marche_Aleatoire,Deplacement au hasard d une particule,TEAL,en_attente
+038,Paradoxe_Anniversaire,Probabilite de deux dates identiques,ORANGE,en_attente
+039,Chaine_Markov,Transition entre etats probabilistes futurs,MAROON,en_attente
+040,Loi_Binomiale,Succes et echecs lors de lancers repetes,YELLOW,en_attente
+041,Ajustement_Affine,Droite de regression au milieu d un nuage,BLUE,en_attente
+042,Theoreme_Valeurs_Intermediaires,La courbe coupe forcement une ligne horizontale,PINK,en_attente
+043,Suite_Logistique,Evolution d une population avec ressources limitees,BROWN,en_attente
+044,Equation_Chaleur,Diffusion de la temperature dans une barre,RED,en_attente
+045,Serie_Fourier,Decomposition d un signal en ondes sinusoidales,PURPLE,en_attente
+046,Nombre_e,Limite des interets composes en continu,GOLD,en_attente
+047,Identite_Euler,Lien magique entre zero un pi e et i,BLACK,en_attente
+048,Algorithme_Dijkstra,Recherche du chemin le plus court,GREEN,en_attente
+049,Tri_a_Bulles,Tri progressif d une liste d elements,TEAL,en_attente
+050,Crypto_RSA,Principe de la cle publique et privee,NAVY,en_attente
+051,Jeu_de_la_Vie,Automate cellulaire avec regles de survie,CYAN,en_attente
+052,Logarithme,Transformation d une multiplication en addition,YELLOW,en_attente
+053,Fonction_Sigmoide,Courbe en S utilisee en reseau de neurones,BLUE,en_attente
+054,Poussee_Archimede,Force exercante sur un corps plonge,TEAL,en_attente
+055,Dualite_Onde_Corpuscule,Double nature de la lumiere fentes de young,PURPLE,en_attente
+056,Chat_Schrodinger,Superposition d etats quantiques vivant et mort,GREY,en_attente
+057,Tableau_Periodique,Organisation des elements selon leur masse,ORANGE,en_attente
+058,Liaison_Covalente,Partage d electrons entre deux atomes,GREEN,en_attente
+059,Echelle_pH,Mesure de l acidite d une solution,RED,en_attente
+060,Demi_Vie,Desintegration radioactive au fil du temps,MAROON,en_attente
+061,Choc_Elastique,Conservation de l energie lors d une collision,WHITE,en_attente
+062,Moment_Inertie,Resistance d un objet a la rotation,GOLD,en_attente
+063,Force_Coriolis,Deviation des mouvements sur une terre tournante,BLUE,en_attente
+064,Pression_Hydrostatique,Augmentation de la pression avec la profondeur,CYAN,en_attente
+065,Cycle_Carnot,Rendement maximal d une machine thermique,BROWN,en_attente
+066,Effet_Photoelectrique,Emission d electrons sous l impact lumineux,YELLOW,en_attente
+067,Onde_Gravitationnelle,Perturbation de l espace temps par un cataclysme,BLACK,en_attente
+068,Dilatance,Fluide non newtonien qui durcit au choc,PINK,en_attente
+069,Theoreme_Noether,Lien entre symetries et lois de conservation,PURPLE,en_attente
+070,Paradoxe_Zenon,La fleche qui n atteint jamais sa cible,GREY,en_attente
+071,Nombre_Premier,Crible d Eratosthene pour filtrer les entiers,GREEN,en_attente
+072,Somme_Geometrique,Remplissage progressif d un carre un demi un quart,TEAL,en_attente
+073,Theoreme_Sandwich,Encadrement d une fonction pour trouver sa limite,ORANGE,en_attente
+074,Vecteur_Propre,Direction qui ne change pas apres transformation,BLUE,en_attente
+075,Polynome_Lagrange,Interpolation passant par tous les points donnés,MAROON,en_attente
+076,Diagramme_Venn,Intersections et unions d ensembles graphiques,NAVY,en_attente
+077,Optimisation_Lineaire,Maximiser un profit sous contraintes de polygones,YELLOW,en_attente
+078,Theoreme_Point_Fixe,Resultat ou une fonction redonne sa valeur,PURPLE,en_attente
+079,Loi_Grands_Nombres,Stabilisation des moyennes apres de nombreux essais,GREEN,en_attente
+080,Coefficients_Binomiaux,Construction et lecture du triangle de pascal,RED,en_attente
+081,Machine_Turing,Modele mecanique de calcul par ruban,GREY,en_attente
+082,Compression_Huffman,Reduction de taille de texte par arbre de code,CYAN,en_attente
+083,Flocon_Koch,Perimetre infini pour une aire finie,WHITE,en_attente
+084,Attracteur_Lorenz,L effet papillon et la theorie du chaos,GOLD,en_attente
+085,Mouvement_Brownien,Agitation thermique des molecules dans l eau,TEAL,en_attente
+086,Capillarite,Montee naturelle de l eau dans un tube fin,BLUE,en_attente
+087,Superconductivite,Disparition de la resistance electrique au froid,PURPLE,en_attente
+088,Lumiere_Laser,Amplification de la lumiere par emission stimulee,RED,en_attente
+089,Fusion_Nucleaire,Union de deux noyaux legers pour creer l energie,ORANGE,en_attente
+090,Fission_Nucleaire,Division d un gros noyau lourd instable,YELLOW,en_attente
+091,Isotope,Atomes ayant le meme nombre de protons,GREEN,en_attente
+092,Loi_de_Stefan,Energie rayonnee selon la puissance quatre,BLACK,en_attente
+093,Vitesse_du_Son,Propagation de l onde de choc dans l air,CYAN,en_attente
+094,Lentille_Convergente,Concentration des rayons lumineux en un foyer,PINK,en_attente
+095,Resonance,Amplification du mouvement a la frequence naturelle,MAROON,en_attente
+096,Tension_Superficielle,Forme spherique d une goutte d eau,BLUE,en_attente
+097,Loi_Boyle_Mariotte,Relation entre pression et volume d un gaz,BROWN,en_attente
+098,Theoreme_Gauss,Flux electrique a travers une surface fermee,PURPLE,en_attente
+099,Espace_Minkowski,Geometrie a quatre dimensions de l univers,GREY,en_attente
+100,Theoreme_Incompletude,Limites des systemes logiques selon Godel,GOLD,en_attente

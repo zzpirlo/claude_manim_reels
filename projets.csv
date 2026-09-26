@@ -1,42 +1,42 @@
 id,titre,concept,couleur_principale,statut
 001,Pythagore,Demonstration visuelle des carres,BLUE,termine
-002,Nombre_Dor,La spirale de Fibonacci dans la nature,GOLD,erreur
-003,Derivee,La pente d une tangente qui bouge,RED,erreur
-004,Pi,Derouler un cercle sur une ligne droite,PURPLE,erreur
-005,Integrale,Somme des rectangles sous la courbe,GREEN,erreur
-006,Loi_de_Gravite,Attraction de deux masses dans l espace,GREY,erreur
-007,Nombre_Complexe,Le role de i dans le plan complexe,ORANGE,erreur
-008,Fractale_Mandelbrot,Zoom infini dans une forme autoreproductive,TEAL,erreur
-009,Matrice,Transformation lineaire et rotation de l espace,CYAN,erreur
-010,Vecteur,Force avec une direction et une norme,YELLOW,erreur
-011,Effet_Doppler,Compression des ondes sonores en mouvement,BLUE,erreur
-012,Trou_Noir,Deformation extreme de l espace temps,BLACK,erreur
-013,Loi_de_Snell,Refraction de la lumiere entre deux milieux,WHITE,erreur
-014,Conique,Intersection d un plan et d un cone,MAROON,erreur
-015,Theoreme_Thales,Proportionnalite des triangles imbriques,BROWN,erreur
-016,Cercle_Trigo,Lien entre angle cosinus et sinus,PINK,erreur
-017,Loi_de_Hooke,Etirement d un ressort selon la force,RED,erreur
-018,Entropie,Evolution du desordre dans un systeme isole,GREY,erreur
-019,Relativite_Restreinte,Dilatation du temps a grande vitesse,GOLD,erreur
-020,Pendule_Simple,Mouvement oscillatoire et force de gravite,GREEN,erreur
-021,Probabilite_Des,Frequence de sortie de chaque face,ORANGE,erreur
-022,Theoreme_Bayes,Mise a jour des chances d un evenement,PURPLE,erreur
-023,Graphe_Euler,Parcourir toutes les aretes sans repasser,TEAL,erreur
-024,Arbre_Binaire,Structure de donnees triee par embranchement,CYAN,erreur
-025,Suites_Geometriques,Croissance exponentielle de cellules,YELLOW,erreur
-026,Loi_de_Coulomb,Attraction et repulsion des charges electriques,BLUE,erreur
-027,Prisme_Newton,Separation de la lumiere blanche en couleurs,RAINBOW,erreur
-028,Champ_Magnetique,Lignes de force autour d un aimant,NAVY,erreur
-029,Machine_Atwood,Acceleration de deux masses reliees par une poulie,GREY,erreur
-030,Loi_de_Kepler,Trajectoire elliptique des planetes autour du soleil,GOLD,erreur
-031,Vitesse_Liberation,Vitesse minimale pour quitter une planete,SILVER,erreur
-032,Loi_de_Ohm,Relation entre tension courant et resistance,RED,erreur
-033,Synthese_Additive,Melange des lumieres rouge verte et bleue,RGB,erreur
-034,Onde_Stationnaire,Vibration d une corde fixee aux extremites,PURPLE,erreur
-035,Effet_Venturi,Acceleration d un fluide dans un etranglement,CYAN,erreur
-036,Theoreme_Central_Limite,Convergence des moyennes vers la loi normale,GREEN,erreur
-037,Marche_Aleatoire,Deplacement au hasard d une particule,TEAL,erreur
-038,Paradoxe_Anniversaire,Probabilite de deux dates identiques,ORANGE,erreur
+002,Nombre_Dor,La spirale de Fibonacci dans la nature,GOLD,termine
+003,Derivee,La pente d une tangente qui bouge,RED,termine
+004,Pi,Derouler un cercle sur une ligne droite,PURPLE,termine
+005,Integrale,Somme des rectangles sous la courbe,GREEN,en_attente
+006,Loi_de_Gravite,Attraction de deux masses dans l espace,GREY,en_attente
+007,Nombre_Complexe,Le role de i dans le plan complexe,ORANGE,en_attente
+008,Fractale_Mandelbrot,Zoom infini dans une forme autoreproductive,TEAL,en_attente
+009,Matrice,Transformation lineaire et rotation de l espace,CYAN,en_attente
+010,Vecteur,Force avec une direction et une norme,YELLOW,en_attente
+011,Effet_Doppler,Compression des ondes sonores en mouvement,BLUE,en_attente
+012,Trou_Noir,Deformation extreme de l espace temps,BLACK,en_attente
+013,Loi_de_Snell,Refraction de la lumiere entre deux milieux,WHITE,en_attente
+014,Conique,Intersection d un plan et d un cone,MAROON,en_attente
+015,Theoreme_Thales,Proportionnalite des triangles imbriques,BROWN,en_attente
+016,Cercle_Trigo,Lien entre angle cosinus et sinus,PINK,en_attente
+017,Loi_de_Hooke,Etirement d un ressort selon la force,RED,en_attente
+018,Entropie,Evolution du desordre dans un systeme isole,GREY,en_attente
+019,Relativite_Restreinte,Dilatation du temps a grande vitesse,GOLD,en_attente
+020,Pendule_Simple,Mouvement oscillatoire et force de gravite,GREEN,en_attente
+021,Probabilite_Des,Frequence de sortie de chaque face,ORANGE,en_attente
+022,Theoreme_Bayes,Mise a jour des chances d un evenement,PURPLE,en_attente
+023,Graphe_Euler,Parcourir toutes les aretes sans repasser,TEAL,en_attente
+024,Arbre_Binaire,Structure de donnees triee par embranchement,CYAN,en_attente
+025,Suites_Geometriques,Croissance exponentielle de cellules,YELLOW,en_attente
+026,Loi_de_Coulomb,Attraction et repulsion des charges electriques,BLUE,en_attente
+027,Prisme_Newton,Separation de la lumiere blanche en couleurs,RAINBOW,en_attente
+028,Champ_Magnetique,Lignes de force autour d un aimant,NAVY,en_attente
+029,Machine_Atwood,Acceleration de deux masses reliees par une poulie,GREY,en_attente
+030,Loi_de_Kepler,Trajectoire elliptique des planetes autour du soleil,GOLD,en_attente
+031,Vitesse_Liberation,Vitesse minimale pour quitter une planete,SILVER,en_attente
+032,Loi_de_Ohm,Relation entre tension courant et resistance,RED,en_attente
+033,Synthese_Additive,Melange des lumieres rouge verte et bleue,RGB,en_attente
+034,Onde_Stationnaire,Vibration d une corde fixee aux extremites,PURPLE,en_attente
+035,Effet_Venturi,Acceleration d un fluide dans un etranglement,CYAN,en_attente
+036,Theoreme_Central_Limite,Convergence des moyennes vers la loi normale,GREEN,en_attente
+037,Marche_Aleatoire,Deplacement au hasard d une particule,TEAL,en_attente
+038,Paradoxe_Anniversaire,Probabilite de deux dates identiques,ORANGE,en_attente
 039,Chaine_Markov,Transition entre etats probabilistes futurs,MAROON,en_attente
 040,Loi_Binomiale,Succes et echecs lors de lancers repetes,YELLOW,en_attente
 041,Ajustement_Affine,Droite de regression au milieu d un nuage,BLUE,en_attente
@@ -73,7 +73,7 @@ id,titre,concept,couleur_principale,statut
 072,Somme_Geometrique,Remplissage progressif d un carre un demi un quart,TEAL,en_attente
 073,Theoreme_Sandwich,Encadrement d une fonction pour trouver sa limite,ORANGE,en_attente
 074,Vecteur_Propre,Direction qui ne change pas apres transformation,BLUE,en_attente
-075,Polynome_Lagrange,Interpolation passant par tous les points donnés,MAROON,en_attente
+075,Polynome_Lagrange,Interpolation passant par tous les points donnes,MAROON,en_attente
 076,Diagramme_Venn,Intersections et unions d ensembles graphiques,NAVY,en_attente
 077,Optimisation_Lineaire,Maximiser un profit sous contraintes de polygones,YELLOW,en_attente
 078,Theoreme_Point_Fixe,Resultat ou une fonction redonne sa valeur,PURPLE,en_attente
@@ -82,7 +82,7 @@ id,titre,concept,couleur_principale,statut
 081,Machine_Turing,Modele mecanique de calcul par ruban,GREY,en_attente
 082,Compression_Huffman,Reduction de taille de texte par arbre de code,CYAN,en_attente
 083,Flocon_Koch,Perimetre infini pour une aire finie,WHITE,en_attente
-084,Attracteur_Lorenz,L effet papillon et la theorie du chaos,GOLD,en_attente
+084,Attracteur_Lorenz,Leffet papillon et la theorie du chaos,GOLD,en_attente
 085,Mouvement_Brownien,Agitation thermique des molecules dans l eau,TEAL,en_attente
 086,Capillarite,Montee naturelle de l eau dans un tube fin,BLUE,en_attente
 087,Superconductivite,Disparition de la resistance electrique au froid,PURPLE,en_attente

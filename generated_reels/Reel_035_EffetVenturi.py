@@ -2,7 +2,7 @@
 Reel Instagram - Effet_Venturi
 Concept: Acceleration d un fluide dans un etranglement
 Format vertical 9:16 (1080x1920 @ 60fps) - Safe Zone centrée
-Généré automatiquement le 2026-09-26 11:22
+Généré automatiquement le 2026-09-26 11:28
 """
 
 from manim import *
@@ -132,7 +132,7 @@ class Reel035(Scene):
         # Animation par défaut : pulsation + rotation
         self.play(
             cercle.animate.scale(1.3).set_fill(colors["primary"], opacity=0.3),
-            rate_func=there_and_back_with_pause,
+            rate_func=there_and_back,
             run_time=2,
         )
         self.play(Rotate(cercle, angle=PI, run_time=2, rate_func=smooth))
@@ -145,7 +145,7 @@ class Reel035(Scene):
     def _creer_formule_cle(self, colors):
         """Formule ou résultat clé - À ADAPTER"""
         formule = MathTex(
-            r"	ext{Concept cl\'e}", r"ightarrow", r"	ext{R\'esultat}",
+            r"	ext{Concept cl'e}", r"ightarrow", r"	ext{R'esultat}",
             font_size=64,
             color=colors["white"],
         )

@@ -153,7 +153,7 @@ class Reel${id}(Scene):
         cercle = Circle(radius=2, color=colors["primary"], stroke_width=6)
         cercle.set_fill(colors["primary"], opacity=0.15)
 
-        label = Text("${concept_short}", font_size=36, color=colors["white"]).next_to(cercle, DOWN, buff=0.5)
+        label = Text("${concept_short_value}", font_size=36, color=colors["white"]).next_to(cercle, DOWN, buff=0.5)
 
         return VGroup(cercle, label)
 
@@ -163,7 +163,7 @@ class Reel${id}(Scene):
         # Animation par défaut : pulsation + rotation
         self.play(
             cercle.animate.scale(1.3).set_fill(colors["primary"], opacity=0.3),
-            rate_func=there_and_back_with_pause,
+            rate_func=there_and_back,
             run_time=2,
         )
         self.play(Rotate(cercle, angle=PI, run_time=2, rate_func=smooth))
@@ -176,7 +176,7 @@ class Reel${id}(Scene):
     def _creer_formule_cle(self, colors):
         """Formule ou résultat clé - À ADAPTER"""
         formule = MathTex(
-            r"\text{Concept cl\\'e}", r"\rightarrow", r"\text{R\\'esultat}",
+            r"\\text{Concept cl\'e}", r"\\rightarrow", r"\\text{R\'esultat}",
             font_size=64,
             color=colors["white"],
         )
@@ -292,12 +292,14 @@ def generate_manim_file(row, template_str):
     template_config = CONCEPT_TEMPLATES.get(concept_type, CONCEPT_TEMPLATES["default"])
 
     # Préparer les variables pour le template
+    concept_short_val = concept[:50] + "..." if len(concept) > 50 else concept
     template_vars = {
         "id": projet_id,
         "titre": titre,
         "titre_clean": titre_clean,
         "concept": concept,
-        "concept_short": concept[:50] + "..." if len(concept) > 50 else concept,
+        "concept_short": concept_short_val,
+        "concept_short_value": concept_short_val,
         "couleur_nom": couleur_nom,
         "couleur_hex": f"#{couleur_hex}" if not couleur_hex.startswith("#") else couleur_hex,
         "couleur_accent_hex": couleur_accent_hex,
